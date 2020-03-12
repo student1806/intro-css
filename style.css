@@ -1,0 +1,22 @@
+/*
+A CSS comprises of style rules that are interpreted by the browser and then applied to the corresponding elements in your document.
+A style rule set consists of a selector and declaration block.
+
+Selector -> h1
+Declaration -> {color:blue;font size:12px;}
+That creates a h1 header of color blue and size 12px
+
+
+Blueprint for a CSS 
+
+selector {
+    property: value; 
+}
+
+following the example above
+
+h1 {
+    color:blue;
+    size: 12px;
+}
+*/
